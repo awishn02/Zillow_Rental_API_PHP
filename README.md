@@ -24,3 +24,5 @@ $params = array('neighborhoods' => 'South Boston', 'city' => 'Boston');
 $zillow_rental_api->GetListings($params);
 ```
 
+For more information on the API see [Zillow's Rental API Documentation](http://api.rentalapp.zillow.com/documentation/ZillowRentalsAPIDocumentation.pdf)
+
