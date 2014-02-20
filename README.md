@@ -22,3 +22,5 @@ $zillow_rental_api = new Zillow_Rental_API('YOUR_API_KEY');
 // Get all listings in South Boston
 $params = array('neighborhoods' => 'South Boston', 'city' => 'Boston');
 $zillow_rental_api->GetListings($params);
+```
+
