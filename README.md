@@ -25,4 +25,5 @@ $zillow_rental_api->GetListings($params);
 ```
 
 For more information on the API see [Zillow's Rental API Documentation](http://api.rentalapp.zillow.com/documentation/ZillowRentalsAPIDocumentation.pdf)
+<a href="http://api.rentalapp.zillow.com/documentation/ZillowRentalsAPIDocumentation.pdf" target="_blank">Zillow's Rental API</a>
 
